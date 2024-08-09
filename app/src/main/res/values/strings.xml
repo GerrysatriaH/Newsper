@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Newsper</string>
+    <string name="about">About</string>
+
+    <!--Main Page-->
+    <string name="title">Title News</string>
+    <string name="publish_date">Publish Date News</string>
+    <string name="description">Description News</string>
+
+    <!--About Page-->
+    <string name="name">Gerry Satria Halim</string>
+    <string name="email">gerrysatria10@gmail.com</string>
+
+    <!--Detail Page-->
+    <string name="detail_title">Title News</string>
+    <string name="detail_publish_date">Publish Date News</string>
+    <string name="detail_description">Description News</string>
+    <string name="source">Source News</string>
+    <string name="share">Share</string>
+
+    <!--Data News-->
+    <string-array name="title_news">
+        <item>Nadiem Makarim Keluarkan Aturan Baru yang Membuat Mahasiswa Tidak Wajib Bikin Skripsi</item>
+        <item>Polusi Jakarta Jadi Sorotan, Peran EBT Harus Ditingkatkan</item>
+        <item>Begini Cara Mengurus Surat Tilang Pengendara yang Tidak Lolos Uji Emisi</item>
+        <item>Ada Balapan Unik di Bandung: Pakai Peti Sabun!</item>
+        <item>Gerai McDonald\'s Ini Berkonsep Era 1980 yang Penuh Nostalgia</item>
+        <item>Muncul Varian Pirola Paling Bermutasi, Kasus COVID-19 Bisa \'Ngegas\' Lagi?</item>
+        <item>X Twitter Bakal Bisa Digunakan untuk Video Call dan Telepon</item>
+        <item>Kominfo Siapkan Pedoman Etika AI untuk Lindungi Data Pribadi</item>
+        <item>Publikasi Industri atau Industri Publikasi?</item>
+        <item>Topan Saola Terjang Guangdong setelah Hantam Hong Kong dan Makau</item>
+        <item>Sukses Daratkan Chandrayaan ke Bulan, India Kirim Aditya Pelajari Matahari</item>
+        <item>Mengenal Tanaman Bunga Tabebuya Bukan Sekadar untuk Keindahan</item>
+    </string-array>
+
+    <string-array name="photo_news">
+        <item>@drawable/nadiem_makarim</item>
+        <item>@drawable/polusi_jakarta</item>
+        <item>@drawable/uji_coba_tilang</item>
+        <item>@drawable/lomba_kereta</item>
+        <item>@drawable/mcdonalds</item>
+        <item>@drawable/virus</item>
+        <item>@drawable/twitter</item>
+        <item>@drawable/ai</item>
+        <item>@drawable/publikasi_industri</item>
+        <item>@drawable/topan</item>
+        <item>@drawable/chandrayaan</item>
+        <item>@drawable/tabebuya</item>
+    </string-array>
+
+    <string-array name="publish_date_news">
+        <item>29 Agustus 2023</item>
+        <item>02 September 2023</item>
+        <item>01 September 2023</item>
+        <item>28 Agustus 2023</item>
+        <item>01 September 2023</item>
+        <item>01 September 2023</item>
+        <item>01 September 2023</item>
+        <item>30 Agustus 2023</item>
+        <item>30 Agustus 2023</item>
+        <item>02 September 2023</item>
+        <item>02 September 2023</item>
+        <item>27 Agustus 2023</item>
+    </string-array>
+
+    <string-array name="description_news">
+        <item>Liputan6.com, Jakarta - Menteri Pendidikan, Kebudayaan, Riset, dan Teknologi (Mendikbudristek), Nadiem Makarim meluncurkan kebujakan untuk transformasi di bidang pendidikan. Salah satunya, kini mahasiswa S1 tidak lagi wajib menyusun skripsi sebagai syarat kelulusan. Aturan mahasiswa tidak wajib skripsi ini tertuang dalam Peraturan Mendikbudristek Nomor 53 Tahun 2023 tentang Penjaminan Mutu Pendidikan Tinggi. Hal tersebut disampaikan Nadiem saat meluncurkan Merdeka Belajar Episode Ke-26 yang bertajuk Transformasi Standar Nasional dan Akreditasi Pendidikan Tinggi yang juga disiarkan melalui platform YouTube. </item>
+        <item>Liputan6.com, Jakarta - Selama beberapa pekan terakhir kualitas udara Jakarta menempati peringkat pertama dalam daftar kota paling berpolusi di dunia. Sejumlah pihak menilai, polusi di Jakarta disebabkan kendaraan bermotor hingga PLTU berbahan bakar batu bara. Anggota Dewan Energi Nasional, Eri Purnomohadi menyatakan salah satu tantangan pencapaian bauran energi primer yaitu batubara, minyak bumi, dan gas bumi masih menjadi andalan dalam pemenuhan kebutuhan. Sehingga laju pemanfaatannya lebih tinggi dibandingkan pemanfaatan EBT.</item>
+        <item>Liputan6.com, Jakarta - Polda Metro Jaya bersama dengan Dinas Lingkungan Hidup DKI Jakarta menggelar razia uji emisi di sejumlah titik wilayah Ibu Kota. Pada razia kali ini, polisi akan langsung menindak pengendara yang kedapatan tidak lolos uji emisi. Adapun penindakan terhadap kendaraan yang tidak lolos uji emisi, kepolisian berpegangan terhadap Pasal 285 dan 286 Undang-Undang Nomor 22 Tahun 2009 tentang Lalu Lintas dan Angkutan Jalan. Untuk kendaraan roda dua akan dikenakan denda Rp250 ribu rupiah, sedang untuk roda sempat sebesar Rp500 ribu.</item>
+        <item>Bandung - Kota Bandung baru saja menggelar ajang balapan unik. Para pesertanya beradu cepat jadi yang terbaik menggunakan... peti sabun! Balapan yang bernama Lomba Kereta Peti Sabun ini coba dipopulerkan lagi setelah vakum selama 35 tahun. Ajang ini diadakan oleh Daya Mahasiswa Sunda (Damas) berkolaborasi dengan alumni SMPN 2 Bandung Angkatan 83 sebagai rangkaian Hari Jadi ke-213 Kota Bandung serta HUT RI ke-78. Balapan ini bertempat di Jalan Diponegoro, Bandung, 26-27 Agustus. Lalu, bagaimana balapannya? Adu cepat di lintasan lurus sepanjang 200 meter dengan papan peluncur sebagai start-nya merupakan kompetisi rekayasa kendaraan tanpa mesin. Format balapannya dibagi dua race dengan lajur kiri dan kanan berbeda pada dua hari pelaksanaan yang diikuti 131 starter.</item>
+        <item>Jakarta - Saat ini konsep yang dihadirkan oleh McDonald\'s lebih bernuansa modern. Berbeda dengan McDonald\'s di Brooklyn satu ini yang berkonsep masa1982-an. McDonald\'s merupakan gerai restoran cepat saji yang populer di dunia. Restoran yang menawarkan menu burger dan kentang goreng ini sekarang memiliki konsep interior yang modern dengan dominasi warna hitam dan kuning. Dilansir dari People (30/8), salah satu gerai McDonald\'s yang berlokasi di Brooklyn, New York, Amerika Serikat ini memiliki konsep yang berbeda. Bukan tampilan modern, melainkan berkonsep vintage atau jadul.</item>
+        <item>Varian COVID BA.2.86 atau yang disebut Pirola telah terdeteksi di Swiss dan Afrika Selatan, menyusul temuan di Israel, Denmark, Amerika Serikat, dan Inggris. Varian ini disoroti oleh pejabat Organisasi Kesehatan Dunia (WHO) lantaran diyakini menjadi yang paling bermutasi di antara varian-varian Corona lainnya. Cabang varian Omicron satu ini membawa lebih dari 35 mutasi pada bagian-bagian penting virus, dibandingkan varian XBB.1.5 yang menjadi varian dominan sepanjang 2023. Jumlah ini diperkirakan setara dengan varian Omicron yang menyebabkan rekor kasus infeksi dibandingkan varian-varian Corona yang telah merebak lebih dulu.</item>
+        <item>KOMPAS.com - Twitter yang kini berubah nama menjadi X, bakal bisa digunakan untuk melakukan panggilan telepon (voice call) dan panggilan video (video call). Rencana fitur baru ini diungkapkan langsung oleh pemiliki X, Elon Musk dalam sebuah posting X di akun pribadinya dengan handle @elonmusk. Ini tampaknya merupakan upaya terbaru Musk untuk membuat X sebagai super app (aplikasi serba ada). "Panggilan telepon dan video akan hadir di X," tulis @elonmusk. Dalam posting tersebut, Elon Musk menyebut fitur voice dan video call di X ini bakal bisa digunakan di seluruh perangkat meliputi iOS, Android, Mac, dan PC. Nantinya, kata Musk, fitur voice call dan video call di platform X ini tidak mengandalkan nomor telepon pengguna, seperti di WhatsApp.</item>
+        <item>KOMPAS.com - Kementerian Komunikasi dan Informatika (Kominfo) tengah menyusun pedoman etika untuk pemanfaatan teknologi kecerdasan buatan (artificial intelligence/AI) di Indonesia.  Hal ini disampaikan Wakil Menteri Kominfo, Nezar Patria, dalam ajang Forum Nasional Perlindungan Data Pribadi tahun 2023 di Badung, Bali, Rabu (30/8/2023).  Nezar mengatakan bahwa Kominfo untuk saat ini akan menyusun Surat Edaran Pedoman Etika Artificial Intelligence. Surat Edaran tersebut ditujukan untuk menghadirkan pemanfaatan AI yang beretika dan menghormati aturan-aturan yang ada. Menurut Nezar, pedoman etika AI ini akan digunakan untuk melindungi data pribadi pengguna di Indonesia. Nezar mengatakan, AI dan data pribadi saling berhubungan. Pasalnya, menurut Nezar, AI memiliki kemampuan untuk membentuk pola data. Kumpulan data ini lantas dapat didukung atau diperkaya lagi dengan data yang diambil dari internet dan data yang tak terstruktur, entah melalui teknik pengumpulan data besar (scraping) atau pengkategorian data (crawling).  Oleh karena itu, pemanfaatan AI, kata Nezar, perlu untuk diawasi dengan cara membuat pedoman etika AI.</item>
+        <item>BELUM lama ini Bappenas mengatakan bahwa Indonesia mengalami deindustrialisasi dini, yaitu penurunan kontribusi sektor industri pengolahan nonmigas terhadap Produk Domestik Bruto (PDB) (Kompas.com, 27 Juli 2023). Di sisi lain, para akademisi dan peneliti sempat bergembira dan bangga karena jumlah publikasi di jurnal internasional meningkat secara eksponensial, bahkan bisa mengalahkan negara-negara tetangga. Akan tetapi, sayangnya itu hanyalah kebanggaan semu, karena tidak mengubah status negara kita menjadi negara maju dalam bidang teknologi, publikasi bertambah secara kuantitas tanpa kualitas, seperti buih di lautan sebagaimana fakta dari Bappenas. Fakta-fakta di atas bisa dijadikan bahan pertimbangan buat lembaga-lembaga riset khususnya BRIN sebagai lembaga riset terbesar di tanah air. Ada dua persoalan fundamental yang menjadi diskursus yang sampai sekarang masih ramai diperbincangkan para periset BRIN, yaitu masalah positioning dan orientasi.</item>
+        <item>TEMPO.CO, Jakarta - Topan Saola menerjang Provinsi Guangdong di China selatan pada Sabtu 2 September 2023, setelah sebelumnya menghantam Shenzhen, Hong Kong, dan Makau. Topan ini menyebabkan satu orang tewas, sejumlah kerusakan, serta banjir di banyak tempat. Sebagai pusat keuangan Asia, Hong Kong dan Guangdong, provinsi yang berpenduduk padat di China, membatalkan ratusan penerbangan pada Jumat. Otoritas juga menutup tempat-tempat usaha, sekolah, dan pasar keuangan karena Saola semakin dekat. Saola, sebagai salah satu topan super, membawa angin kencang berkecepatan lebih dari 200 kilometer per jam dan sejak 1949 merupakan salah satu topan paling berbahaya bagi provinsi di bagian selatan itu. Pihak berwenang China mengatakan bahwa Saola menjadi parah ketika tiba di Kota Zhuhai dengan membawa kecepatan angin yang melambat menjadi sekitar 160 kilometer per jam. Misi surya ini menyusul India yang mengalahkan Rusia pada akhir bulan lalu untuk menjadi negara pertama yang mendarat di kutub selatan Bulan. Meskipun Rusia memiliki roket yang lebih kuat, Chandrayaan-3 India mampu mengalahkan Luna-25 dalam melakukan pendaratan. Pesawat ruang angkasa Aditya-L1 dirancang untuk melakukan perjalanan sekitar 1,5 juta km selama empat bulan ke semacam tempat parkir di luar angkasa di mana benda-benda cenderung diam karena keseimbangan gaya gravitasi, sehingga mengurangi konsumsi bahan bakar untuk pesawat ruang angkasa.</item>
+        <item>TEMPO.CO, Jakarta - Setelah berhasil Chandrayaan-3 ke Bulan, badan antariksa India meluncurkan roket untuk mempelajari matahari hari ini, Sabtu, 2 Februari 2023. Pesawat luar angkasa pertama yang berbasis di India ini bertujuan untuk mempelajari angin Matahari, yang dapat menyebabkan gangguan di bumi yang biasa disebut aurora. Pesawat luar angkasa ini dinamakan berdasarkan kata dalam bahasa Hindi yang berarti matahari, Aditya-L1.</item>
+        <item>TEMPO.CO, Jakarta - Tabebuya merupakan pohon yang memiliki kemiripan dengan tanaman sakura. Ini terlihat ketika berbunga karena bentuk bunganya yang mirip dengan sakura. Kedua tanaman ini berbeda dan bukan dari spesies yang sama atau memiliki kaitan kekerabatan. Kelebihan dari tanaman ini adalah daun yang tidak mudah rontok saat musim kemarau dan ketika musim berbunga, akan muncul bunga yang indah dan lebat. Akar dari tanaman ini cenderung tidak merusak bangunan atau tembok, sehingga bisa ditanam di halaman rumah atau pinggir jalan. Karena kecantikannya, bunga ini bahkan menambah nilai estetika selain gunanya menyejukkan ruangan. Tanaman bunga tabebuya yang berasal dari Brasil ini memiliki ketahanan hidup yang tinggi pada cuaca kering. Atau habitatnya yang merupakan hutan tropis kering dan lembap menjadi alasan ia bisa hidup di ketinggian kurang dari 1.200 meter mdpl. Tanaman ini juga bisa beradaptasi dengan jenis tanah, baik pada tanah liat, berlumpur, hingga tanah yang berkapur.</item>
+    </string-array>
+
+    <string-array name="source_news">
+        <item>liputan6.com</item>
+        <item>liputan6.com</item>
+        <item>liputan6.com</item>
+        <item>sport.detik.com</item>
+        <item>food.detik.com</item>
+        <item>health.detik.com</item>
+        <item>tekno.kompas.com</item>
+        <item>tekno.kompas.com</item>
+        <item>kompas.com</item>
+        <item>tempo.com</item>
+        <item>tempo.com</item>
+        <item>tempo.com</item>
+    </string-array>
+</resources>
